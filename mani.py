@@ -51,4 +51,4 @@ async def on_message(message):
         await message.channel.send('инициация беседы')
 
 
-client.run('ODM3NDA4NzUwMjg0ODMyODI5.YIsHrA.7pbuSvRYnkUrdiwP7n9H5RLu1Ms')
+client.run('Token')
